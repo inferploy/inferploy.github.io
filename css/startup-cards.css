@@ -123,6 +123,14 @@ textarea {
   margin-bottom: 20px;
   width: 150px;
 }
+@media screen and (max-width:768px){
+  .label{
+    width: 50%;
+  }
+  .feild input{
+    width: 90%;
+  }
+}
 
 /* @media screen and (max-width: 425px) {
   .grid {
